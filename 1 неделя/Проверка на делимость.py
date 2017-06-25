@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+condition = (a // b) + (a % b)
+#condition1 = (a % b)/(a % b)
+f = print('YES'*condition)
+#,# 'NO'*condition1, sep='')
